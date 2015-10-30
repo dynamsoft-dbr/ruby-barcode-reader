@@ -51,7 +51,8 @@ References
 
 Blog
 ----
-Coming soon...
+[How to Make Ruby Barcode Reader with C++ Barcode SDK on Mac OS X][3]
 
 [1]:http://www.dynamsoft.com/Products/barcode-cpp-api-for-windows.aspx
 [2]:http://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx
+[3]:http://www.codepool.biz/ruby-barcode-reader-c-sdk.html
